@@ -1,6 +1,6 @@
 # HollowsLoader
 
-**HollowsLoader** é um projeto em C++ que utiliza a tecnica conhecida por *process hollowing* .Substituindo a imagem de um processo suspenso (neste caso, `cmd.exe`) com um executável PE arbitrário (`.exe`) fornecido pelo usuário.
+**HollowsLoader** é um projeto em C++ que utiliza a tecnica conhecida por *process hollowing* .Substituindo a imagem de um processo suspenso (neste caso, `cmd.exe`) com outro executável PE (`.exe`) fornecido pelo usuário.
 
 ## 🚨 AVISO
 
